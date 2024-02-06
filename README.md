@@ -6,4 +6,4 @@ You can also see the information and the work others' made on [Kaggle](https://w
 
 Below are the powerpoint slide of [EDA](https://docs.google.com/presentation/d/1tI4HX4j61axCJpGeMhH7RLR3UmI-wrydDgOWgr_sIM4/edit#slide=id.p) and the [evaluation of models](https://docs.google.com/presentation/d/1QpkE6j0khvxowtE9bwe5TbfycAFy07ylwlNFtawdE3c/edit#slide=id.p)
 
-If you wanna see a complete report of the analysis. There is a .docx file which contains all the imformation about it, but there's only Chinese version right now. I might translate it one day. 
+The pdf file which contains all the imformation about it is the full and detailed analysis of the dataset. Welcome to see it for more detail.
